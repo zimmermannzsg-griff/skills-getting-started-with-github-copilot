@@ -52,6 +52,12 @@ All data is stored in memory, which means data will be reset when the server res
 
 ## Testing
 
+Run the backend API tests from the repository root with pytest:
+
+```
+pytest
+```
+
 Run the signup interface regression test from the repository root with Node.js:
 
 ```
